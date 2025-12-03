@@ -1,6 +1,6 @@
 # SSH Lesfollesdingotes-
 #La checklist
-Pour le developpeur principal-
+# Pour le developpeur principal-
 [ ] Créer une page html d'accueil
 /Accueil.html
 
@@ -18,7 +18,17 @@ container
 
 
  
-  Développeur Créa. Il/elle doit :
- • Créer un CSS définissant les classes dont les noms sont donnés par le/la
- cheffe d’équipe.
- • Trouver des photos d’oiseaux pour illustrer
+  # Développeur Créa. Il/elle doit :
+ Créer un CSS
+ photo
+ cadre
+ nav
+ Trouver des photos d’oiseaux pour illustrer
+
+
+ # Hébergeur :
+ Héberger le site en local pour le tester.
+ Créer la base de donnée.
+ Si le temps le permet, héberger le site sur un vrai hébergeur. (Votre always
+data par exemple, et dans ce cas il faut aussi créer la base de données sur
+ alwaysdata.)
