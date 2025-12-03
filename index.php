@@ -13,6 +13,7 @@
     <p>Voici la deuxième page créée en PHP.</p>
 
     <a href="index.html">Retour à la page d'accueil</a>
+    
 
 </body>
 </html>
