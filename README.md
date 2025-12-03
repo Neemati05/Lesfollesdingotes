@@ -8,7 +8,12 @@ Pour le developpeur principal
 /Concours.php
 
 [ ] Les classes CSS
-.caar
-.photo
-.carte
+header-nav
+carte
+section-title
+container
 
+[ ] Créer un formulaire pour soumettre les photos (qui sont enregistrées sur le
+ site) et un formulaire de vote.
+
+ 
