@@ -8,4 +8,7 @@ Pour le developpeur principal
 /Concours.php
 
 [ ] Les classes CSS
-.cadre
+.caar
+.photo
+.carte
+
